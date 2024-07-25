@@ -4,7 +4,7 @@ I'm a 3rd year student at Indian Institute of Information Technology, Nagpur, pu
 
 ## 🔧 Skills & Tools
 
-- Languages: Java, c, C++, JavaScript, MySQl, PostgreSQL
+- Languages: Java, C, C++, JavaScript, MySQl, PostgreSQL
 - Technologies & Tools: Spring Boot, ReactJs, NodeJs, JDBC, IntelliJ, VScode
 
 ## 📫 How to reach me
