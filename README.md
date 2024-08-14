@@ -1,6 +1,6 @@
 # Hi there, I'm Tanay Pandey! 👋
 
-I'm a 3rd year student at Indian Institute of Information Technology, Nagpur, pursuing a degree in Computer Science. I'm passionate about Fullstack Development, and I love to explore and learn new things in DevOps.
+I'm a 3rd year student at Indian Institute of Information Technology, Nagpur, pursuing a degree in Computer Science. I'm passionate about Fullstack and Java Development, and I love to explore and learn new things in DevOps.
 
 ## 🔧 Skills & Tools
 
