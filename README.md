@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Trading Platform Web App](https://github.com/Tanay-22/Trading-Platform)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Microservices and Kafka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanay-22](https://github.com/Tanay-22)
 
