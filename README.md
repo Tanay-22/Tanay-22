@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Trading Platform Web App](https://github.com/Tanay-22/Trading-Platform)
 
-- 🌱 I’m currently learning **Microservices and Kafka**
+- 🌱 I’m currently learning **Low Level Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanay-22](https://github.com/Tanay-22)
 
-- 💬 Ask me about **Java, Spring Boot, DevOps**
+- 💬 Ask me about **Java, Spring Boot, Microservices**
 
 - 📫 How to reach me **tanay22pandey@gmail.com**
 
