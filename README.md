@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanay-22&label=Profile%20views&color=0e75b6&style=flat" alt="tanay-22" /> </p>
 
-- 🔭 I’m currently working on [Trading Platform Web App](https://github.com/Tanay-22/Trading-Platform)
+- 🔭 I’m currently working on [Low Level Design](https://github.com/Tanay-22/Low-Level-Design)
 
 - 🌱 I’m currently learning **Low Level Design**
 
